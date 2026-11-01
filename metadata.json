@@ -1,0 +1,8 @@
+{
+  "name": "SATRIA BRIDA - Portal Satu Data Riset & Inovasi Daerah",
+  "description": "Portal Satu Data Riset dan Inovasi Daerah (SATRIA BRIDA) Provinsi Jawa Timur dengan standar desain Portal Satu Data Indonesia (data.go.id), menyajikan katalog dataset, modul SICAKAB, verifikasi data, dan analitik riset terintegrasi.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

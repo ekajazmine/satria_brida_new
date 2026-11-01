@@ -1,0 +1,8 @@
+{
+    "name": "asus/project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.5",
+        "phpoffice/phpword": "^1.4",
+        "dompdf/dompdf": "^3.1"
+    }
+}
